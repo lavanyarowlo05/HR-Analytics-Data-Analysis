@@ -1,6 +1,6 @@
-### HR Analytics Dashboard – Employee Attendance Insights
+# HR Analytics Dashboard – Employee Attendance Insights
 
-# Project Overview
+## Project Overview
 
 This project focuses on analyzing employee attendance patterns using data analytics and visualization techniques. The goal of the project is to help HR teams understand workforce availability, identify attendance trends, and support data-driven decision making for improving productivity and workforce planning.
 
@@ -20,7 +20,7 @@ identify trends in work-from-home and leave usage
 
 improve workforce planning and productivity
 
-# Dataset
+## Dataset
 
 The dataset contains employee attendance information including:
 
@@ -36,7 +36,7 @@ Presence percentage
 
 The data was processed and transformed to generate meaningful HR insights.
 
-# Tools and Technologies Used
+## Tools and Technologies Used
 
 Python (for data preprocessing)
 Excel (data cleaning and preparation)
@@ -49,7 +49,7 @@ Pandas
 
 NumPy
 
-# Key Metrics Analyzed
+## Key Metrics Analyzed
 
 Presence Percentage
 Work From Home Percentage
@@ -57,7 +57,7 @@ Leave Percentage
 Employee Attendance Trends
 Daily Attendance Patterns
 
-# Dashboard Features
+## Dashboard Features
 
 The Power BI dashboard provides interactive visualizations including:
 
@@ -73,7 +73,7 @@ HR performance indicators
 
 The dashboard allows HR managers to quickly understand workforce behavior and identify attendance-related issues.
 
-# Key Insights
+## Key Insights
 
 Identified patterns in employee attendance behavior
 
